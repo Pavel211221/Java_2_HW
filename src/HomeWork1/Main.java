@@ -1,12 +1,12 @@
-package hw1;
+package HomeWork1;
 
-import hw1.obstacle.Obstacle;
-import hw1.obstacle.Wall;
-import hw1.obstacle.Cross;
-import hw1.sport.Cat;
-import hw1.sport.Human;
-import hw1.sport.Robot;
-import hw1.sport.Sport;
+import HomeWork1.obstacle.Obstacle;
+import HomeWork1.obstacle.Wall;
+import HomeWork1.obstacle.Cross;
+import HomeWork1.sport.Cat;
+import HomeWork1.sport.Human;
+import HomeWork1.sport.Robot;
+import HomeWork1.sport.Sport;
 
 public class Main {
     public static void main(String[] args) {

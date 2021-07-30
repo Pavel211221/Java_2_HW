@@ -1,4 +1,4 @@
-package hw1.sport;
+package HomeWork1.sport;
 
 public class Robot implements Sport {
 

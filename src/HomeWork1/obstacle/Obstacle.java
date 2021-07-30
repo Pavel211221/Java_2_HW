@@ -1,6 +1,6 @@
-package hw1.obstacle;
+package HomeWork1.obstacle;
 
-import hw1.sport.Sport;
+import HomeWork1.sport.Sport;
 
 public interface Obstacle {
     boolean doIt(Sport c);
